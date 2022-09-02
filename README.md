@@ -16,7 +16,7 @@ WORKDONE
 
 
 
-CONcLUSION
+CONCLUSION
 
   1] By Applying 6 different model on the dataset logistic Regression,Random Forest,Decision Tree,svm,knn,bagging classifire
 
